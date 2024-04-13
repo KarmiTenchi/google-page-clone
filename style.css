@@ -58,6 +58,10 @@ nav {
   width: 80%;
 }
 
+.search-box input:focus {
+  outline: none;
+}
+
 .search-box:hover {
   box-shadow: 5px 3px 3px 3px #f5f5f0;
 }
